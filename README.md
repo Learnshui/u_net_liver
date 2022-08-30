@@ -64,4 +64,5 @@ loss=criterion(pred,target)
 ```
 
 ## Demo
+动态图时是怎么保存下来的？？？？？？
 ![liver](https://img-blog.csdn.net/20180508083935908)
